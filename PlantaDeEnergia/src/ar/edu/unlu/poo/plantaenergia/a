@@ -1,0 +1,10 @@
+como se usa el this. -> Referencia la instancia llamada.
+
+Static permite crear variables y metodos globales independientemente de
+si existe una instancia creada de dicha clase.
+Se usa de la misma forma que se puede en C.
+
+Se pueden crear Excepciones con un archivo nuevo JavaClass -> Exception.
+Esto se puede hacer gracias al Extend que permite heredar caracteristicas
+o atributos de otra clase.
+
