@@ -10,7 +10,7 @@ public class Reactor {
 
     public Reactor(String codigo, Double temperaturaActual) {
         this.codigo = codigo;
-        this.temperaturaActual = temperaturaActual;
+        this.setTemperaturaActual(temperaturaActual);
         this.enAlerta = false;
     }
 
@@ -24,7 +24,7 @@ public class Reactor {
         }else temperaturaActual = nuevaTemperatura;
 
         if(this.temperaturaActual > limiteTemperaturaGlobal){
-            if(!this.enAlerta) {
+            if(Boolean.FALSE.equals(this.enAlerta)) {
                 this.enAlerta = true;
                 contadorAlertas++;
             }

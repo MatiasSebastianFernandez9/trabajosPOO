@@ -8,3 +8,15 @@ Se pueden crear Excepciones con un archivo nuevo JavaClass -> Exception.
 Esto se puede hacer gracias al Extend que permite heredar caracteristicas
 o atributos de otra clase.
 
+Aliasing, cuando 1 variable apunta a mas de 2 instancias=?
+
+1. de clase es variable global, se usa en todas las instancias
+
+2.
+
+3. Si, es la utilizacion de private, se usa para declarar variables de instancia
+Es para controlar el estado de cada instancia.
+
+4.
+
+5. Limitan la eficiencia
