@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4352b6ec-6e1c-4e17-ae95-d61873c3b825" name="Changes" comment="toma">
-      <change afterPath="$PROJECT_DIR$/Clase1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase1/Temperatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/Aplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clase2/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/Aplicacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/Reactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clase2/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/Reactor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/TableroControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clase2/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/TableroControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/TemperaturaCriticaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clase2/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/TemperaturaCriticaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/a" beforeDir="false" afterPath="$PROJECT_DIR$/Clase2/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/a" afterDir="false" />
+    <list default="true" id="4352b6ec-6e1c-4e17-ae95-d61873c3b825" name="Changes" comment="eeeh probando">
+      <change afterPath="$PROJECT_DIR$/Clase3/tpartefactos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase3/tpartefactos/Artefacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase3/tpartefactos/CatalogoArtefactos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase3/tpartefactos/CatalogoArtefactosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase3/tpartefactos/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase3/tpartefactos/MainLibros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase3/tpartefactos/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/IntelliJ IDEA 2026.2.1/Proyectos/trabajosPOO",
@@ -67,6 +69,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA 2026.2.1\Proyectos\trabajosPOO\Clase3\tpartefactos" />
+      <recent name="D:\IntelliJ IDEA 2026.2.1\Proyectos\trabajosPOO\Clase3" />
       <recent name="D:\IntelliJ IDEA 2026.2.1\Proyectos\trabajosPOO\Clase1\Temperatura" />
       <recent name="D:\IntelliJ IDEA 2026.2.1\Proyectos\trabajosPOO\Clase1" />
       <recent name="D:\IntelliJ IDEA 2026.2.1\Proyectos\trabajosPOO\Clase2" />
@@ -125,7 +129,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="toma" />
-    <option name="LAST_COMMIT_MESSAGE" value="toma" />
+    <MESSAGE value="eeeh probando" />
+    <option name="LAST_COMMIT_MESSAGE" value="eeeh probando" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
