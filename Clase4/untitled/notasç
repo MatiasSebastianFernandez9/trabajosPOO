@@ -1,0 +1,24 @@
+assertThrows(IllegalArgumentException.class, new Executable(){
+            @Override
+            public void execute(){
+                cuenta.depositar(0);
+            }
+        });
+
+@BeforeEach
+    public void setUP(){
+        cuenta = new Cuenta("ARS");
+    }
+@BeforeAll
+static public void initAll();
+
+@AfterEach
+public void tearDown();
+
+@AfterALL
+static public void tearDownAll();
+
+TDD es un enfoque proveedor/cliente
+
+.stream() metodo que nos permite acceder a mas metodos de colecciones
+algunos metodos devuelven una clase "OPTIONAL" se puede considerar
