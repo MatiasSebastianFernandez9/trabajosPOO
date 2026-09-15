@@ -1,0 +1,7 @@
+package ar.edu.unlu.poo.juegomesa;
+
+//LA CLASE DE COLORES DEFINIRIA EL RANGO DE RESPUESTAS QUE TIENEN LAS CLAVES
+//TAMBIEN PODRIA LLEGAR A TENER EL COMPARADOR
+
+public class Colores {
+}

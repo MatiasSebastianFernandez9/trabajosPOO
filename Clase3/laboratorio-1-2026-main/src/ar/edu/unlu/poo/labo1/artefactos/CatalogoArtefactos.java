@@ -25,6 +25,8 @@ public class CatalogoArtefactos {
             }
         }
 
+        artefactosPorTipo.sort(Comparator.comparingInt(Artefacto::getPoder).reversed());
+
         return artefactosPorTipo;
     }
 
@@ -46,5 +48,12 @@ public class CatalogoArtefactos {
     }
 
     public Artefacto obtenerArtefactoMasPoderoso(){
+        if(artefactos.isEmpty()){return null;}
+
+        List<Artefacto> artefactosPorPoder = new ArrayList<>(artefactos);
+
+        artefactosPorPoder.sort(Comparator.comparingInt(Artefacto::getPoder).reversed());
+
+        return artefactosPorPoder.getFirst();
     }
 }
