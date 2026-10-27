@@ -1,0 +1,8 @@
+Ciclo de desarrollo TDD (Red-Green-Refact)
+desarrollar basandose en el test del codigo:
+    crear un test
+    escribir codigo minimo para superar el test
+        se permiten "salidas faciles"
+    Mejorar el codigo
+Es una metodologia de diseño
+
