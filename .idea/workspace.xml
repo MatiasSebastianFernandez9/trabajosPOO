@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4352b6ec-6e1c-4e17-ae95-d61873c3b825" name="Changes" comment="cambia nombres carpetas 3">
-      <change beforePath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/Notas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/enunciado-01.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/enunciado-02.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/enunciado-03.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase6 - MVC y Observer/Ejercicio 2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/Ejercicio 2/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase6 - MVC y Observer/Ejercicio 2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/Ejercicio 2/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase6 - MVC y Observer/Ejercicio 2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/Ejercicio 2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase6 - MVC y Observer/Ejercicio 2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/Ejercicio 2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase6 - MVC y Observer/Ejercicio 2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/Ejercicio 2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase6 - MVC y Observer/Ejercicio 2/Ejercicio 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/Ejercicio 2/Ejercicio 2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase6 - MVC y Observer/Ejercicio 2/src/ar/edu/unlu/poo/logistica/EmpresaDeLogistica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/Ejercicio 2/src/ar/edu/unlu/poo/logistica/EmpresaDeLogistica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase6 - MVC y Observer/Ejercicio 2/src/ar/edu/unlu/poo/logistica/Envios.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clase4 - Herencia y polimorfismo/Ejercicio 2/src/ar/edu/unlu/poo/logistica/Envios.java" afterDir="false" />
+    <list default="true" id="4352b6ec-6e1c-4e17-ae95-d61873c3b825" name="Changes" comment="cambia nombres carpetas 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +131,8 @@
     <MESSAGE value="cambia nombres carpetas" />
     <MESSAGE value="cambia nombres carpetas 2" />
     <MESSAGE value="cambia nombres carpetas 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambia nombres carpetas 3" />
+    <MESSAGE value="cambia nombres carpetas 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambia nombres carpetas 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
