@@ -2,14 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4352b6ec-6e1c-4e17-ae95-d61873c3b825" name="Changes" comment="eeeh probando">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Clase1/Temperatura/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/out/production/Clase1/ar/edu/unlu/alumno/temperatura/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Clase1/Temperatura/out/production/Clase1/ar/edu/unlu/alumno/temperatura/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/Laboratorio Uno POO 2025.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/Laboratorio Uno POO 2025.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/src/ar/edu/unlu/poo/labo1/artefactos/CatalogoArtefactos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/src/ar/edu/unlu/poo/labo1/artefactos/CatalogoArtefactos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/tests/ar/edu/unlu/poo/labo1/artefactos/CatalogoArtefactosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/tests/ar/edu/unlu/poo/labo1/artefactos/CatalogoArtefactosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Clase1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/Clase1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/Temperatura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/out/production/Clase1/ar/edu/unlu/alumno/temperatura/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/out/production/Clase1/ar/edu/unlu/alumno/temperatura/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/out/production/Clase1/ar/edu/unlu/alumno/temperatura/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/out/production/Clase1/ar/edu/unlu/alumno/temperatura/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/out/production/Clase1/ar/edu/unlu/alumno/temperatura/Clase1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/out/production/Clase1/ar/edu/unlu/alumno/temperatura/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1/Temperatura/out/production/Clase1/ar/edu/unlu/alumno/temperatura/Temperatura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/Aplicacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/Reactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/TableroControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/TemperaturaCriticaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/PlantaDeEnergia/src/ar/edu/unlu/poo/plantaenergia/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/Laboratorio Uno POO 2025.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/src/ar/edu/unlu/poo/labo1/artefactos/Artefacto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/src/ar/edu/unlu/poo/labo1/artefactos/CatalogoArtefactos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/src/ar/edu/unlu/poo/labo1/libreria/Libro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/src/ar/edu/unlu/poo/labo1/libreria/MainLibros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/laboratorio-1-2026-main/tests/ar/edu/unlu/poo/labo1/artefactos/CatalogoArtefactosTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
