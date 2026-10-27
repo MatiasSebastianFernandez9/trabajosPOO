@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4352b6ec-6e1c-4e17-ae95-d61873c3b825" name="Changes" comment="cambia nombres carpetas 4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4352b6ec-6e1c-4e17-ae95-d61873c3b825" name="Changes" comment="Agregando archivos de ejercicios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +130,8 @@
     <MESSAGE value="cambia nombres carpetas 2" />
     <MESSAGE value="cambia nombres carpetas 3" />
     <MESSAGE value="cambia nombres carpetas 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambia nombres carpetas 4" />
+    <MESSAGE value="Agregando archivos de ejercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregando archivos de ejercicios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
